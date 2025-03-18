@@ -1,0 +1,9 @@
+{
+  "typeorm": {
+    "type": "postgres",
+    "port": 5432,
+    "host": "localhost",
+    "synchronize": false,
+    "logging": false
+  }
+}

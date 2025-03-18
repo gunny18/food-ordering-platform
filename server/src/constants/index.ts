@@ -1,9 +1,11 @@
 import * as ENV from "./env";
 import * as PATH from "./path";
+import * as DATABASE from "./database";
 
 const CONSTANTS = {
   ENV,
-  PATH
+  PATH,
+  DATABASE,
 };
 
 export default CONSTANTS;
